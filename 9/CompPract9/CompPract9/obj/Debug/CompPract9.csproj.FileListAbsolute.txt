@@ -1,0 +1,7 @@
+D:\MyCode\informatika\CompPract9\CompPract9\bin\Debug\CompPract9.exe.config
+D:\MyCode\informatika\CompPract9\CompPract9\bin\Debug\CompPract9.exe
+D:\MyCode\informatika\CompPract9\CompPract9\bin\Debug\CompPract9.pdb
+D:\MyCode\informatika\CompPract9\CompPract9\obj\Debug\CompPract9.csproj.AssemblyReference.cache
+D:\MyCode\informatika\CompPract9\CompPract9\obj\Debug\CompPract9.csproj.CoreCompileInputs.cache
+D:\MyCode\informatika\CompPract9\CompPract9\obj\Debug\CompPract9.exe
+D:\MyCode\informatika\CompPract9\CompPract9\obj\Debug\CompPract9.pdb
